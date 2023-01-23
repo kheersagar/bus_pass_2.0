@@ -1,4 +1,4 @@
-# bus_pass_2.0
+# Bus_pass_2.0
 
 Backend Server Link: https://github.com/kheersagar/Bus-Pass-server
 
